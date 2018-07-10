@@ -1,3 +1,16 @@
 li{
     position: absolute;
 }
+
+img{
+    width:100px;
+}
+
+.perro{
+    top:1px;
+}
+
+.gato {
+    bottom:1px;
+    left:-200px;
+}
